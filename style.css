@@ -10,7 +10,7 @@ body {
     background: #f2f4f8;
     color: #333;
     scroll-behavior: smooth;
-    margin: 0 20px; /* beri ruang di kiri dan kanan halaman */
+    margin: 0 20px; 
 }
 
 .header {
@@ -58,7 +58,7 @@ body {
     max-width: 1200px;
     margin: 30px auto;
     padding: 0 40px;
-    gap: 30px; /* jarak antar konten & sidebar */
+    gap: 30px; 
 }
 
 .content {
@@ -93,7 +93,6 @@ body {
     margin-left: 10px;
 }
 
-/* Hapus titik bullet di sidebar */
 .widget ul {
     list-style: none;
     padding-left: 0;
@@ -252,3 +251,4 @@ button.btn:hover {
         width: 100%;
     }
 }
+
